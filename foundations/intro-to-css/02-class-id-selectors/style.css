@@ -1,0 +1,21 @@
+.odd-lines {
+    color: black;
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#line2 {
+    color: blue;
+    font-size: 48px;
+}
+
+.odd-lines#line3 {
+    font-size: 36px;
+}
+
+#line4 {
+    color: black;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+
